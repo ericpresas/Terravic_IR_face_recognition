@@ -3,3 +3,5 @@ terravic_facial_infrared_dataset/*
 env_thermal_face/*
 terravic_lbph_features
 *.data
+__pycache__
+.idea
